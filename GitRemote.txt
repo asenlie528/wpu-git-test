@@ -1,0 +1,3 @@
+$ git remote -v  # Verbose
+origin  https://github.com/asenlie528/wpu-git-test.git (fetch)
+origin  https://github.com/asenlie528/wpu-git-test.git (push)
