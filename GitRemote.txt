@@ -12,3 +12,9 @@ Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), done.
 To https://github.com/asenlie528/wpu-git-test.git
    74b87b5..c69c8d9  master -> master
+
+
+$ git config --list
+core.editor="C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\Code.exe" --wait
+user.name=Harto Lie Sudianto
+user.email=asens_b8@yahoo.com
