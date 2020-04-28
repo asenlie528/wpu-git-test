@@ -18,3 +18,12 @@ $ git config --list
 core.editor="C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\Code.exe" --wait
 user.name=Harto Lie Sudianto
 user.email=asens_b8@yahoo.com
+
+
+$ git config --local
+
+$ git config --global user.name "Harto Lie Sudianto"
+
+$ git config --global user.email "asens_b8@yahoo.com"
+
+$ git config --list
